@@ -1,5 +1,5 @@
 # 💫 About Me:
- I'm a recent Computer Science grad with a knack for building things, especially in my home lab. I believe in the power of simple, well-designed software to make life easier and workflows smoother. You'll often find me exploring new technologies, from web frameworks to automation tools, always with an eye towards practicality and efficiency. When I need a mental break, I enjoy a playing chess, challenge me on Lichess: [♟Simply_a_Pawn♟](https://lichess.org/@/Simply_a_Pawn). Excited to collaborate and learn from the vibrant open-source community here on GitHub!
+ I'm a recent Computer Science grad with a knack for building things, especially in my home lab. I believe in the power of simple, well-designed software to make life easier and workflows smoother. You'll often find me exploring new technologies, from web frameworks to automation tools, always with an eye towards practicality and efficiency.
 
 
 ## 🌐 Socials:
